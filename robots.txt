@@ -1,0 +1,4 @@
+# Search engines may read the public pages. The private parts stay out of the way.
+User-agent: *
+Disallow: /api/
+Disallow: /includes/
